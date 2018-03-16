@@ -27,3 +27,5 @@ video_id (Common id field to both comment and video csv files)
 comment_text
 likes
 replies
+
+# You can download your data form : https://www.kaggle.com/amansaini/youtube-trends-eda?scriptVersionId=2156622/data 
